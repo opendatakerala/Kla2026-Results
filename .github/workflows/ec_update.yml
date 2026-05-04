@@ -12,9 +12,14 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,20 +35,17 @@ jobs:
 
       - name: Configure git
         run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-        - name: Commit and push if changes exist
+      - name: Commit and push if changes exist
         run: |
-            git add .
+          git add .
 
-            if git diff --cached --quiet; then
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
-            fi
+          fi
 
-            git commit -m "Update results $(date -u)"
-
-            git push origin HEAD:${{ github.ref_name }}
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Update results $(date -u)"
+          git push origin HEAD:${{ github.ref_name }}
