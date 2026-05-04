@@ -23,7 +23,7 @@ jobs:
           pip install curl_cffi beautifulsoup4
 
       - name: Run scraper
-        run: python script.py
+        run: python fetch_results.py
 
       - name: Commit & push
         run: |
