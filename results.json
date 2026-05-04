@@ -11,10 +11,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "PRIJI KANNAN",
     "trailing_party": "Communist Party of India",
-    "margin": "123",
-    "round": "2/17",
+    "margin": "783",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -31,7 +31,7 @@
     "margin": "4281",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -48,7 +48,7 @@
     "margin": "3624",
     "round": "5/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -65,7 +65,7 @@
     "margin": "1591",
     "round": "1/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -79,10 +79,10 @@
     "leading_party": "Independent",
     "trailing_candidate": "H. SALAM",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "1576",
-    "round": "1/14",
+    "margin": "2766",
+    "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -99,7 +99,7 @@
     "margin": "2067",
     "round": "1/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -116,7 +116,7 @@
     "margin": "3642",
     "round": "3/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -133,7 +133,7 @@
     "margin": "1826",
     "round": "1/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -150,7 +150,7 @@
     "margin": "241",
     "round": "4/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -167,7 +167,7 @@
     "margin": "2895",
     "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -184,7 +184,7 @@
     "margin": "3011",
     "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -201,7 +201,7 @@
     "margin": "3934",
     "round": "3/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -218,7 +218,7 @@
     "margin": "2554",
     "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -232,10 +232,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "J. CHINCHURANI",
     "trailing_party": "Communist Party of India",
-    "margin": "1520",
-    "round": "2/15",
+    "margin": "2210",
+    "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -249,10 +249,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "ADV. BIJU S CHIRAYATH",
     "trailing_party": "Kerala Congress (M)",
-    "margin": "3552",
-    "round": "3/16",
+    "margin": "5092",
+    "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -262,14 +262,14 @@
     "district": "Kottayam",
     "region": "Centeral Keralam",
     "wikidata": "Q16136954",
-    "leading_candidate": "ADV. JOB MAICHIL",
-    "leading_party": "Kerala Congress (M)",
-    "trailing_candidate": "VINU JOB KUZHIMANNIL",
-    "trailing_party": "Kerala Congress",
-    "margin": "1098",
-    "round": "3/15",
+    "leading_candidate": "VINU JOB KUZHIMANNIL",
+    "leading_party": "Kerala Congress",
+    "trailing_candidate": "ADV. JOB MAICHIL",
+    "trailing_party": "Kerala Congress (M)",
+    "margin": "61",
+    "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -286,7 +286,7 @@
     "margin": "207",
     "round": "2/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -300,10 +300,10 @@
     "leading_party": "Revolutionary Socialist",
     "trailing_candidate": "DR.SUJITH VIJAYANPILLAI",
     "trailing_party": "Independent",
-    "margin": "6805",
-    "round": "4/14",
+    "margin": "7830",
+    "round": "5/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -317,10 +317,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "SIVADASAN (SIVAN VEETTIKUNNU)",
     "trailing_party": "Independent",
-    "margin": "11544",
-    "round": "5/16",
+    "margin": "13660",
+    "round": "6/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S111",
@@ -337,7 +337,7 @@
     "margin": "1269",
     "round": "2/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -351,10 +351,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "K.R. RAJENDRA PRASAD",
     "trailing_party": "Indian National Congress",
-    "margin": "1286",
-    "round": "3/17",
+    "margin": "1291",
+    "round": "4/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -368,10 +368,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "RAMYA HARIDAS",
     "trailing_party": "Indian National Congress",
-    "margin": "1004",
-    "round": "3/16",
+    "margin": "1456",
+    "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -388,7 +388,7 @@
     "margin": "489",
     "round": "3/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -402,10 +402,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "ADV. A. RAJA",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "498",
-    "round": "2/16",
+    "margin": "262",
+    "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -419,10 +419,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "PINARAYI VIJAYAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "2077",
-    "round": "3/15",
+    "margin": "2812",
+    "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -439,7 +439,7 @@
     "margin": "1755",
     "round": "2/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -453,10 +453,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "SABU GEORGE",
     "trailing_party": "Independent",
-    "margin": "7477",
-    "round": "3/15",
+    "margin": "10327",
+    "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -470,10 +470,10 @@
     "leading_party": "Revolutionary Socialist",
     "trailing_candidate": "M.NOUSHAD",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "1898",
-    "round": "2/14",
+    "margin": "2374",
+    "round": "3/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -490,7 +490,7 @@
     "margin": "7365",
     "round": "4/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -507,7 +507,7 @@
     "margin": "9483",
     "round": "4/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -524,7 +524,7 @@
     "margin": "398",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -538,10 +538,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "T.T.JISMON",
     "trailing_party": "Communist Party of India",
-    "margin": "7387",
-    "round": "5/15",
+    "margin": "9675",
+    "round": "6/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -558,7 +558,7 @@
     "margin": "4063",
     "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -575,7 +575,7 @@
     "margin": "8121",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -592,7 +592,7 @@
     "margin": "1674",
     "round": "6/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -609,7 +609,7 @@
     "margin": "7302",
     "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -626,7 +626,7 @@
     "margin": "295",
     "round": "3/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -640,10 +640,10 @@
     "leading_party": "Indian Union Muslim League",
     "trailing_candidate": "P RAJEEVE",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "760",
-    "round": "1/16",
+    "margin": "2497",
+    "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -660,7 +660,7 @@
     "margin": "12626",
     "round": "4/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S112",
@@ -677,7 +677,7 @@
     "margin": "13134",
     "round": "4/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -694,7 +694,7 @@
     "margin": "6370",
     "round": "4/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -711,7 +711,7 @@
     "margin": "1254",
     "round": "2/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -728,7 +728,7 @@
     "margin": "2422",
     "round": "3/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -745,7 +745,7 @@
     "margin": "2353",
     "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -762,7 +762,7 @@
     "margin": "2849",
     "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -779,7 +779,7 @@
     "margin": "1023",
     "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -796,7 +796,7 @@
     "margin": "1327",
     "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -813,7 +813,7 @@
     "margin": "783",
     "round": "3/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -827,10 +827,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "K.J. MAXY",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "832",
-    "round": "1/18",
+    "margin": "528",
+    "round": "2/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -840,14 +840,14 @@
     "district": "Thrissur",
     "region": "Centeral Keralam",
     "wikidata": "Q6425466",
-    "leading_candidate": "ADV. V R SUNIL KUMAR",
-    "leading_party": "Communist",
-    "trailing_candidate": "ADV. O J JANEESH",
-    "trailing_party": "Indian National Congress",
-    "margin": "227",
-    "round": "2/15",
+    "leading_candidate": "ADV. O J JANEESH",
+    "leading_party": "Indian National Congress",
+    "trailing_candidate": "ADV. V R SUNIL KUMAR",
+    "trailing_party": "Communist Party of India",
+    "margin": "738",
+    "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -864,7 +864,7 @@
     "margin": "4875",
     "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -878,10 +878,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "S. JAYAMOHAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "4031",
-    "round": "5/14",
+    "margin": "5749",
+    "round": "6/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -891,14 +891,14 @@
     "district": "Malappuram",
     "region": "North Keralam",
     "wikidata": "Q16135092",
-    "leading_candidate": "DR. P. JIJI",
-    "leading_party": "Communist",
-    "trailing_candidate": "T.P. ASHRAFALI",
-    "trailing_party": "Indian Union Muslim League",
-    "margin": "1188",
-    "round": "1/18",
+    "leading_candidate": "T.P. ASHRAFALI",
+    "leading_party": "Indian Union Muslim League",
+    "trailing_candidate": "DR. P. JIJI",
+    "trailing_party": "Communist Party of India (Marxist)",
+    "margin": "1152",
+    "round": "2/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -915,7 +915,7 @@
     "margin": "4148",
     "round": "2/10",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -932,7 +932,7 @@
     "margin": "144",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -946,10 +946,10 @@
     "leading_party": "Kerala Congress",
     "trailing_candidate": "ANTONY JOHN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "1214",
-    "round": "1/14",
+    "margin": "2756",
+    "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -966,7 +966,7 @@
     "margin": "-",
     "round": "-",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -980,10 +980,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "ADV.P. AISHA POTTY",
     "trailing_party": "Indian National Congress",
-    "margin": "693",
-    "round": "2/15",
+    "margin": "89",
+    "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -1000,7 +1000,7 @@
     "margin": "7663",
     "round": "3/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S113",
@@ -1017,7 +1017,7 @@
     "margin": "3857",
     "round": "3/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1031,10 +1031,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "ADV.K JAYANTH",
     "trailing_party": "Indian National Congress",
-    "margin": "330",
-    "round": "2/14",
+    "margin": "355",
+    "round": "3/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1051,7 +1051,7 @@
     "margin": "3452",
     "round": "2/12",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1065,10 +1065,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "S. L. SAJIKUMAR",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "4204",
-    "round": "3/17",
+    "margin": "6460",
+    "round": "4/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1085,7 +1085,7 @@
     "margin": "2954",
     "round": "2/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1099,10 +1099,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "P T AJAY MOHAN",
     "trailing_party": "Indian National Congress",
-    "margin": "1775",
-    "round": "3/15",
+    "margin": "2169",
+    "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1116,10 +1116,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "ADV. P. V. SREENIJIN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "4127",
-    "round": "2/16",
+    "margin": "4922",
+    "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1136,7 +1136,7 @@
     "margin": "2846",
     "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1153,7 +1153,7 @@
     "margin": "5636",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1170,7 +1170,7 @@
     "margin": "1112",
     "round": "1/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1187,7 +1187,7 @@
     "margin": "2888",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1201,10 +1201,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "C KRISHNAKUMAR",
     "trailing_party": "Bharatiya Janata Party",
-    "margin": "5640",
-    "round": "3/14",
+    "margin": "7653",
+    "round": "4/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1221,7 +1221,7 @@
     "margin": "14162",
     "round": "3/25",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1238,7 +1238,7 @@
     "margin": "469",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1252,10 +1252,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "O R KELU",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "912",
-    "round": "2/17",
+    "margin": "386",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1272,7 +1272,7 @@
     "margin": "7322",
     "round": "3/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1289,7 +1289,7 @@
     "margin": "6574",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1306,7 +1306,7 @@
     "margin": "12130",
     "round": "4/22",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1323,7 +1323,7 @@
     "margin": "7053",
     "round": "2/12",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1340,7 +1340,7 @@
     "margin": "554",
     "round": "2/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S114",
@@ -1354,10 +1354,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "ADV. MUTHARA RAJ",
     "trailing_party": "Indian National Congress",
-    "margin": "821",
-    "round": "3/17",
+    "margin": "1500",
+    "round": "4/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1374,7 +1374,7 @@
     "margin": "9843",
     "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1388,10 +1388,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "K.M. ABHIJITH",
     "trailing_party": "Indian National Congress",
-    "margin": "1383",
-    "round": "1/19",
+    "margin": "30",
+    "round": "2/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1405,10 +1405,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "ADV. SUNIL LALOOR",
     "trailing_party": "Indian National Congress",
-    "margin": "1761",
-    "round": "4/17",
+    "margin": "1938",
+    "round": "5/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1422,10 +1422,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "MEENANKAL KUMAR",
     "trailing_party": "Indian National Congress",
-    "margin": "574",
-    "round": "2/18",
+    "margin": "1351",
+    "round": "3/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1435,14 +1435,14 @@
     "district": "Palakkad",
     "region": "Centeral Keralam",
     "wikidata": "Q13112978",
-    "leading_candidate": "K PREMAN",
-    "leading_party": "Communist",
-    "trailing_candidate": "A. THANKAPPAN",
-    "trailing_party": "Indian National Congress",
-    "margin": "1109",
-    "round": "2/15",
+    "leading_candidate": "A. THANKAPPAN",
+    "leading_party": "Indian National Congress",
+    "trailing_candidate": "K PREMAN",
+    "trailing_party": "Communist Party of India (Marxist)",
+    "margin": "554",
+    "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1459,7 +1459,7 @@
     "margin": "1207",
     "round": "2/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1476,7 +1476,7 @@
     "margin": "1304",
     "round": "4/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1490,10 +1490,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "U SHARAFALI",
     "trailing_party": "Independent",
-    "margin": "8449",
-    "round": "3/19",
+    "margin": "11803",
+    "round": "4/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1507,10 +1507,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "ADV. SHAJI J KODANKANDATH",
     "trailing_party": "Indian National Congress",
-    "margin": "2021",
-    "round": "1/16",
+    "margin": "4607",
+    "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1527,7 +1527,7 @@
     "margin": "5559",
     "round": "4/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1544,7 +1544,7 @@
     "margin": "1770",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1554,14 +1554,14 @@
     "district": "Palakkad",
     "region": "Centeral Keralam",
     "wikidata": "Q18536954",
-    "leading_candidate": "SOBHA SURENDRAN",
-    "leading_party": "Bharatiya Janata",
-    "trailing_candidate": "RAMESH PISHARODY",
-    "trailing_party": "Indian National Congress",
-    "margin": "737",
-    "round": "2/11",
+    "leading_candidate": "RAMESH PISHARODY",
+    "leading_party": "Indian National Congress",
+    "trailing_candidate": "SOBHA SURENDRAN",
+    "trailing_party": "Bharatiya Janata Party",
+    "margin": "1463",
+    "round": "3/11",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1578,7 +1578,7 @@
     "margin": "2813",
     "round": "3/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1592,10 +1592,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "E.T.TAISON MASTER",
     "trailing_party": "Communist Party of India",
-    "margin": "995",
-    "round": "3/16",
+    "margin": "1606",
+    "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1612,7 +1612,7 @@
     "margin": "1435",
     "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1626,10 +1626,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "MUHAMMED MUHASSIN",
     "trailing_party": "Communist Party of India",
-    "margin": "320",
-    "round": "3/15",
+    "margin": "590",
+    "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1643,10 +1643,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "V. KUNHIKRISHNAN",
     "trailing_party": "Independent",
-    "margin": "5740",
-    "round": "4/14",
+    "margin": "5859",
+    "round": "5/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1663,7 +1663,7 @@
     "margin": "6657",
     "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1677,10 +1677,10 @@
     "leading_party": "Indian Union Muslim League",
     "trailing_candidate": "T. P. RAMAKRISHNAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "3682",
-    "round": "2/17",
+    "margin": "5302",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S115",
@@ -1697,7 +1697,7 @@
     "margin": "453",
     "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1711,10 +1711,10 @@
     "leading_party": "Indian Union Muslim League",
     "trailing_candidate": "V.P MOHAMMED HANEEFA",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "5876",
-    "round": "3/21",
+    "margin": "8282",
+    "round": "4/21",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1728,10 +1728,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "BASIL PAUL",
     "trailing_party": "Kerala Congress (M)",
-    "margin": "5702",
-    "round": "2/15",
+    "margin": "7776",
+    "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1748,7 +1748,7 @@
     "margin": "7479",
     "round": "3/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1765,7 +1765,7 @@
     "margin": "703",
     "round": "1/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1782,7 +1782,7 @@
     "margin": "129",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1799,7 +1799,7 @@
     "margin": "3616",
     "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1816,7 +1816,7 @@
     "margin": "1590",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1830,10 +1830,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "K. M. RADHAKRISHNAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "14626",
-    "round": "4/15",
+    "margin": "17895",
+    "round": "5/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1847,10 +1847,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "K. DASAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "532",
-    "round": "2/17",
+    "margin": "2354",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1860,14 +1860,14 @@
     "district": "Pathanamthitta",
     "region": "South Keralam",
     "wikidata": "Q13114408",
-    "leading_candidate": "ADV. PRAMOD NARAYAN",
-    "leading_party": "Kerala Congress (M)",
-    "trailing_candidate": "ADV. PAZHAKULAM MADHU",
-    "trailing_party": "Indian National Congress",
-    "margin": "547",
-    "round": "2/17",
+    "leading_candidate": "ADV. PAZHAKULAM MADHU",
+    "leading_party": "Indian National Congress",
+    "trailing_candidate": "ADV. PRAMOD NARAYAN",
+    "trailing_party": "Kerala Congress (M)",
+    "margin": "853",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1884,7 +1884,7 @@
     "margin": "2776",
     "round": "5/12",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1898,10 +1898,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "M S VISWANATHAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "4669",
-    "round": "4/18",
+    "margin": "6138",
+    "round": "5/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1918,7 +1918,7 @@
     "margin": "974",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1935,7 +1935,7 @@
     "margin": "6366",
     "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1952,7 +1952,7 @@
     "margin": "4848",
     "round": "5/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1969,7 +1969,7 @@
     "margin": "11122",
     "round": "4/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1983,10 +1983,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "DR. K T JALEEL",
     "trailing_party": "Independent",
-    "margin": "4230",
-    "round": "3/16",
+    "margin": "5498",
+    "round": "4/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -1996,14 +1996,14 @@
     "district": "Pathanamthitta",
     "region": "South Keralam",
     "wikidata": "Q16137335",
-    "leading_candidate": "ANOOP ANTONY",
-    "leading_party": "Bharatiya Janata",
+    "leading_candidate": "ADV.VARGHESE MAMMEN",
+    "leading_party": "Kerala Congress",
     "trailing_candidate": "ADV. MATHEW T THOMAS",
     "trailing_party": "Independent",
-    "margin": "37",
-    "round": "1/18",
+    "margin": "829",
+    "round": "2/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -2020,7 +2020,7 @@
     "margin": "4321",
     "round": "4/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S116",
@@ -2034,10 +2034,10 @@
     "leading_party": "Communist Marxist",
     "trailing_candidate": "SUDHIR KARAMANA",
     "trailing_party": "Independent",
-    "margin": "1837",
-    "round": "3/18",
+    "margin": "2142",
+    "round": "4/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2054,7 +2054,7 @@
     "margin": "5350",
     "round": "2/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2071,7 +2071,7 @@
     "margin": "7255",
     "round": "3/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2088,7 +2088,7 @@
     "margin": "4498",
     "round": "3/21",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2102,10 +2102,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "PADMAJA VENUGOPAL",
     "trailing_party": "Bharatiya Janata Party",
-    "margin": "4870",
-    "round": "6/16",
+    "margin": "7781",
+    "round": "7/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2122,7 +2122,7 @@
     "margin": "1091",
     "round": "2/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2139,7 +2139,7 @@
     "margin": "1356",
     "round": "1/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2156,7 +2156,7 @@
     "margin": "3113",
     "round": "1/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2166,14 +2166,14 @@
     "district": "Kasaragod",
     "region": "North Keralam",
     "wikidata": "Q16137696",
-    "leading_candidate": "SANDEEP VARIER",
-    "leading_party": "Indian National Congress",
-    "trailing_candidate": "DR. V P P MUSTAFA",
-    "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "2382",
-    "round": "2/16",
+    "leading_candidate": "DR. V P P MUSTAFA",
+    "leading_party": "Communist",
+    "trailing_candidate": "SANDEEP VARIER",
+    "trailing_party": "Indian National Congress",
+    "margin": "3366",
+    "round": "3/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2187,10 +2187,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "C H KUNHAMBU",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "7216",
-    "round": "2/17",
+    "margin": "9054",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2207,7 +2207,7 @@
     "margin": "4418",
     "round": "5/15",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2221,10 +2221,10 @@
     "leading_party": "Revolutionary Marxist",
     "trailing_candidate": "M K BHASKARAN",
     "trailing_party": "Rashtriya Janata Dal",
-    "margin": "4795",
-    "round": "4/14",
+    "margin": "5456",
+    "round": "5/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2238,10 +2238,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "K BINIMON",
     "trailing_party": "Indian National Congress",
-    "margin": "224",
-    "round": "3/13",
+    "margin": "697",
+    "round": "4/13",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2258,7 +2258,7 @@
     "margin": "11126",
     "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2272,10 +2272,10 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "MURALEEDHARAN NAIR D K",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "625",
-    "round": "2/20",
+    "margin": "1153",
+    "round": "3/20",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2289,10 +2289,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "VARKALA KAHAR",
     "trailing_party": "Indian National Congress",
-    "margin": "1180",
-    "round": "2/17",
+    "margin": "2069",
+    "round": "3/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2309,7 +2309,7 @@
     "margin": "652",
     "round": "2/18",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2326,7 +2326,7 @@
     "margin": "4403",
     "round": "2/14",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2343,7 +2343,7 @@
     "margin": "496",
     "round": "5/16",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2357,10 +2357,10 @@
     "leading_party": "Communist",
     "trailing_candidate": "P.N. VAISAKH",
     "trailing_party": "Indian National Congress",
-    "margin": "3031",
-    "round": "6/17",
+    "margin": "3884",
+    "round": "7/17",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   },
   {
     "state_code": "S117",
@@ -2374,9 +2374,9 @@
     "leading_party": "Indian National Congress",
     "trailing_candidate": "DR.K.K DAMODARAN",
     "trailing_party": "Communist Party of India (Marxist)",
-    "margin": "7005",
-    "round": "2/19",
+    "margin": "9395",
+    "round": "3/19",
     "status": "Result in Progress",
-    "update_time": "2026-05-04 10:26:06"
+    "update_time": "2026-05-04 10:35:32"
   }
 ]
