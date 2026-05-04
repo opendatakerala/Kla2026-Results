@@ -12,16 +12,12 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      NODE_OPTIONS: --use-node=24
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -30,14 +26,24 @@ jobs:
           pip install curl_cffi beautifulsoup4 pandas
 
       - name: Run scraper
-        run: python scraper.py
+        run: python fetch_results.py
 
-      - name: Commit and push
+      - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add .
-          git diff --cached --quiet && exit 0 || git commit -m "Update results $(date -u)"
+        - name: Commit and push if changes exist
+        run: |
+            git add .
 
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+            fi
+
+            git commit -m "Update results $(date -u)"
+
+            git push origin HEAD:${{ github.ref_name }}
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
