@@ -1,141 +1,141 @@
 state_code,constituency_no,constituency_name,constituency_name_ml,district,region,wikidata,leading_candidate,leading_party,trailing_candidate,trailing_party,margin,round,status,update_time
-S111,115,Adoor,അടൂർ,Pathanamthitta,South Keralam,Q7601892,ADVOCATE C V SANTHAKUMAR,Indian National Congress,PRIJI KANNAN,Communist Party of India,4558,11/17,Result in Progress,2026-05-04 14:08:48
-S111,104,Alappuzha,ആലപ്പുഴ,Alappuzha,South Keralam,Q13110290,A.D THOMAS,Indian National Congress,P.P.CHITHARANJAN,Communist Party of India (Marxist),16035,14/16,Result in Progress,2026-05-04 14:08:48
-S111,60,Alathur,ആലത്തൂർ,Palakkad,Centeral Keralam,Q16136878,T M SASI,Communist,K M FEBIN,Indian National Congress,8553,13/13,Result Declared,2026-05-04 14:08:48
-S111,76,Aluva,ആലുവ,Ernakulam,Centeral Keralam,Q13110297,ANWAR SADATH,Indian National Congress,ADVOCATE A.M.ARIFF,Communist Party of India (Marxist),11434,8/18,Result in Progress,2026-05-04 14:08:48
-S111,105,Ambalappuzha,അമ്പലപ്പുഴ,Alappuzha,South Keralam,Q13110066,G.SUDHAKARAN,Independent,H. SALAM,Communist Party of India (Marxist),17827,9/14,Result in Progress,2026-05-04 14:08:48
-S111,75,Angamaly,അങ്കമാലി,Ernakulam,Centeral Keralam,Q7601651,ROJI M JOHN,Indian National Congress,SAJU PAUL,Communist Party of India (Marxist),20293,9/16,Result in Progress,2026-05-04 14:08:48
-S111,113,Aranmula,ആറന്മുള,Pathanamthitta,South Keralam,Q16136677,ABIN VARKEY KODIYATTU,Indian National Congress,VEENA GEORGE,Communist Party of India (Marxist),13264,16/20,Result in Progress,2026-05-04 14:08:48
-S111,102,Aroor,അരൂർ,Alappuzha,South Keralam,Q13110113,ADV. SHANIMOL OSMAN,Indian National Congress,DALEEMA,Communist Party of India (Marxist),8813,13/15,Result in Progress,2026-05-04 14:08:48
-S111,136,Aruvikkara,അരുവിക്കര,Thiruvananthapuram,South Keralam,Q7602920,ADV. G. STEEPHEN,Communist,V. S. SIVAKUMAR,Indian National Congress,2892,16/20,Result in Progress,2026-05-04 14:08:48
-S111,128,Attingal,ആറ്റിങ്ങൽ,Thiruvananthapuram,South Keralam,Q16136708,O.S AMBIKA,Communist,ADV. P SUDHEER,Bharatiya Janata Party,11507,12/16,Result in Progress,2026-05-04 14:08:48
-S111,10,Azhikode,അഴീക്കോട്,Kannur,North Keralam,Q13110133,K. V. SUMESH,Communist,ADV. KAREEM CHELERI,Indian Union Muslim League,2766,12/14,Result in Progress,2026-05-04 14:08:48
-S111,25,Balussery,ബാലുശ്ശേരി,Kozhikode,North Keralam,Q16137581,V.T. SOORAJ,Indian National Congress,ADV. K.M. SACHINDEV,Communist Party of India (Marxist),15463,17/19,Result in Progress,2026-05-04 14:08:48
-S111,29,Beypore,ബേപ്പൂർ,Kozhikode,North Keralam,Q13113680,P.A MOHAMED RIYAS,Communist,P V ANVAR S/O SHOUKATHALI,Independent,4883,13/16,Result in Progress,2026-05-04 14:08:48
-S111,122,Chadayamangalam,ചടയമംഗലം,Kollam,South Keralam,Q16137010,M. M. NASEER,Indian National Congress,J. CHINCHURANI,Communist Party of India,3431,11/15,Result in Progress,2026-05-04 14:08:48
-S111,72,Chalakudy,ചാലക്കുടി,Thrissur,Centeral Keralam,Q5068546,SANEESHKUMAR JOSEPH,Indian National Congress,ADV. BIJU S CHIRAYATH,Kerala Congress (M),20099,14/16,Result in Progress,2026-05-04 14:08:48
-S111,99,Changanassery,ചങ്ങനാശ്ശേരി,Kottayam,Centeral Keralam,Q16136954,VINU JOB KUZHIMANNIL,Kerala Congress,ADV. JOB MAICHIL,Kerala Congress (M),8368,15/15,Result in Progress,2026-05-04 14:08:48
-S111,126,Chathannoor,ചാത്തന്നൂർ,Kollam,South Keralam,Q13111908,B.B.GOPAKUMAR,Bharatiya Janata,ADV.R.RAJENDRAN,Communist Party of India,1896,12/16,Result in Progress,2026-05-04 14:08:48
-S111,117,Chavara,ചവറ,Kollam,South Keralam,Q13111898,SHIBU BABY JOHN,Revolutionary Socialist,DR.SUJITH VIJAYANPILLAI,Independent,18573,14/14,Result in Progress,2026-05-04 14:08:48
-S111,61,Chelakkara,ചേലക്കര,Thrissur,Centeral Keralam,Q5089791,U R PRADEEP,Communist,SIVADASAN (SIVAN VEETTIKUNNU),Independent,29386,16/16,Result Declared,2026-05-04 14:08:48
-S111,110,Chengannur,ചെങ്ങന്നൂർ,Alappuzha,South Keralam,Q13112004,SAJI CHERIAN,Communist,ADV. ABI KURIAKOSE,Indian National Congress,8481,13/15,Result in Progress,2026-05-04 14:08:48
-S112,103,Cherthala,ചേർത്തല,Alappuzha,South Keralam,Q16134436,P. PRASAD,Communist,K.R. RAJENDRA PRASAD,Indian National Congress,11064,14/17,Result in Progress,2026-05-04 14:08:48
-S112,129,Chirayinkeezhu,ചിറയൻകീഴ്,Thiruvananthapuram,South Keralam,Q16137800,RAMYA HARIDAS,Indian National Congress,MANOJ EDAMANA,Communist Party of India,28,14/16,Result in Progress,2026-05-04 14:08:48
-S112,58,Chittur,ചിറ്റൂർ,Palakkad,Centeral Keralam,Q13111967,ADV. SUMESH ACHUTHAN,Indian National Congress,ADV. V. MURUGADAS,Indian Socialist Janata Dal,6468,13/15,Result in Progress,2026-05-04 14:08:48
-S112,88,Devikulam,ദേവികുളം,Idukki,Centeral Keralam,Q16134525,F. RAJA,Indian National Congress,ADV. A. RAJA,Communist Party of India (Marxist),4347,13/16,Result in Progress,2026-05-04 14:08:48
-S112,12,Dharmadom,ധർമ്മടം,Kannur,North Keralam,Q13112766,PINARAYI VIJAYAN,Communist,ADV. V.P ABDUL RASHEED,Indian National Congress,8241,12/15,Result in Progress,2026-05-04 14:08:48
-S112,26,Elathur,എലത്തൂർ,Kozhikode,North Keralam,Q16135458,ADV.VIDYA BALAKRISHNAN,Indian National Congress,A.K.SASEENDRAN S/O KUNJAMBU,Nationalist Congress Party - Sharadchandra Pawar,8097,12/15,Result in Progress,2026-05-04 14:08:48
-S112,82,Ernakulam,എറണാകുളം,Ernakulam,Centeral Keralam,Q16135415,T.J VINOD,Indian National Congress,SABU GEORGE,Independent,35156,14/15,Result in Progress,2026-05-04 14:08:48
-S112,125,Eravipuram,ഇരവിപുരം,Kollam,South Keralam,Q13110435,ADV.VISHNU MOHAN,Revolutionary Socialist,M.NOUSHAD,Communist Party of India (Marxist),8699,13/14,Result in Progress,2026-05-04 14:08:48
-S112,34,Eranad,ഏറനാട്,Malappuram,North Keralam,Q13110769,P.K.BASHEER,Indian Union Muslim League,ADV.SHAFEER KIZHISSERI,Communist Party of India,37644,16/18,Result in Progress,2026-05-04 14:08:48
-S112,96,Ettumanoor,ഏറ്റുമാനൂർ,Kottayam,Centeral Keralam,Q16135978,NATTAKOM SURESH,Indian National Congress,V. N. VASAVAN,Communist Party of India (Marxist),19159,12/13,Result in Progress,2026-05-04 14:08:48
-S112,63,Guruvayur,ഗുരുവായൂർ,Thrissur,Centeral Keralam,Q5620568,N. K. AKBAR,Communist,C. H. RASHEED,Indian Union Muslim League,23,11/17,Result in Progress,2026-05-04 14:08:48
-S112,107,Haripad,ഹരിപ്പാട്,Alappuzha,South Keralam,Q16137908,RAMESH CHENNITHALA,Indian National Congress,T.T.JISMON,Communist Party of India,23377,15/15,Result Declared,2026-05-04 14:08:48
-S112,91,Idukki,ഇടുക്കി,Idukki,Centeral Keralam,Q13110378,ROY K PAULOSE,Indian National Congress,ROSHY AUGUSTINE,Kerala Congress (M),23670,15/15,Result in Progress,2026-05-04 14:08:48
-S112,9,Irikkur,ഇരിക്കൂർ,Kannur,North Keralam,Q13110432,ADV. SAJEEV JOSEPH,Indian National Congress,ADV. MATHEW KUNNAPPALLY,Kerala Congress (M),35064,13/16,Result in Progress,2026-05-04 14:08:48
-S112,70,Irinjalakuda,ഇരിങ്ങാലക്കുട,Thrissur,Centeral Keralam,Q6070028,ADV. THOMAS UNNIYADAN,Kerala Congress,DR.R.BINDU,Communist Party of India (Marxist),9064,15/16,Result in Progress,2026-05-04 14:08:48
-S112,94,Kaduthuruthy,കടുത്തുരുത്തി,Kottayam,Centeral Keralam,Q13110914,ADV.MONS JOSEPH,Kerala Congress,NIRMALA JIMMY,Kerala Congress (M),25147,12/15,Result in Progress,2026-05-04 14:08:48
-S112,69,Kaipamangalam,കയ്പമംഗലം,Thrissur,Centeral Keralam,Q6348174,K.K. VALSARAJ,Communist,T.M. NAZAR,Indian National Congress,9539,13/15,Result in Progress,2026-05-04 14:08:48
-S112,77,Kalamassery,കളമശ്ശേരി,Ernakulam,Centeral Keralam,Q16134141,ADV. V E ABDUL GAFOOR,Indian Union Muslim League,P RAJEEVE,Communist Party of India (Marxist),10723,9/16,Result in Progress,2026-05-04 14:08:48
-S112,7,Kalliasseri,കല്ല്യാശ്ശേരി,Kannur,North Keralam,Q13111077,M.VIJIN,Communist,ADV. RAJEEVAN KAPPACHERI,Indian National Congress,18433,14/14,Result in Progress,2026-05-04 14:08:48
-S112,19,Kalpetta,കല്പറ്റ,Wayanad,North Keralam,Q13111054,ADV. T SIDDIQUE,Indian National Congress,P K ANIL KUMAR,Rashtriya Janata Dal,45031,17/17,Result in Progress,2026-05-04 14:08:48
-S113,4,Kanhangad,കാഞ്ഞങ്ങാട്,Kasaragod,North Keralam,Q13111113,ADV. GOVINDAN PALLIKAPPIL,Communist,SHAIJI OTTAPALLI,Kerala Congress,15316,19/19,Result in Progress,2026-05-04 14:08:48
-S113,100,Kanjirappally,കാഞ്ഞിരപ്പള്ളി,Kottayam,Centeral Keralam,Q16134543,RONY K BABY,Indian National Congress,DR. N. JAYARAJ,Kerala Congress (M),3866,13/15,Result in Progress,2026-05-04 14:08:48
-S113,11,Kannur,കണ്ണൂർ,Kannur,North Keralam,Q16137348,ADV.T.O. MOHANAN,Indian National Congress,RAMACHANDRAN KADANNAPPALLI,Congress (Secular),16702,11/13,Result in Progress,2026-05-04 14:08:48
-S113,116,Karunagappally,കരുനാഗപ്പള്ളി,Kollam,South Keralam,Q13111030,C.R. MAHESH,Indian National Congress,ADV.M.S. THARA,Communist Party of India,21392,13/16,Result in Progress,2026-05-04 14:08:48
-S113,2,Kasaragod,കാസർഗോഡ്,Kasaragod,North Keralam,Q13111222,KALLATRA MAHIN,Indian Union Muslim League,ASHWINI M L,Bharatiya Janata Party,22698,16/16,Result in Progress,2026-05-04 14:08:48
-S113,138,Kattakkada,കാട്ടാക്കട,Thiruvananthapuram,South Keralam,Q6378291,M. R. BAIJU,Indian National Congress,ADV. I. B. SATHEESH,Communist Party of India (Marxist),7141,11/16,Result in Progress,2026-05-04 14:08:48
-S113,108,Kayamkulam,കായംകുളം,Alappuzha,South Keralam,Q13111157,ADV.M.LIJU,Indian National Congress,ADV.U.PRATHIBHA,Communist Party of India (Marxist),11341,12/17,Result in Progress,2026-05-04 14:08:48
-S113,132,Kazhakkoottam,കഴക്കൂട്ടം,Thiruvananthapuram,South Keralam,Q13111089,KADAKAMPALLY SURENDRAN,Communist,V. MURALEEDHARAN,Bharatiya Janata Party,1499,11/18,Result in Progress,2026-05-04 14:08:48
-S113,80,Kochi,കൊച്ചി,Ernakulam,Centeral Keralam,Q17372576,MOHAMMED SHIYAS,Indian National Congress,K.J. MAXY,Communist Party of India (Marxist),7655,15/18,Result in Progress,2026-05-04 14:08:48
-S113,73,Kodungallur,കൊടുങ്ങല്ലൂർ,Thrissur,Centeral Keralam,Q6425466,ADV. O J JANEESH,Indian National Congress,ADV. V R SUNIL KUMAR,Communist Party of India,8308,15/15,Result in Progress,2026-05-04 14:08:48
-S113,31,Koduvally,കൊടുവള്ളി,Kozhikode,North Keralam,Q16135012,P K FIROS,Indian Union Muslim League,SALEEM MADAVOOR,Independent,32169,13/16,Result in Progress,2026-05-04 14:08:48
-S113,124,Kollam,കൊല്ലം,Kollam,South Keralam,Q48733036,ADV. BINDHU KRISHNA,Indian National Congress,S. JAYAMOHAN,Communist Party of India (Marxist),16830,14/14,Result Declared,2026-05-04 14:08:48
-S113,33,Kondotty,കൊണ്ടോട്ടി,Malappuram,North Keralam,Q16135092,T.P. ASHRAFALI,Indian Union Muslim League,DR. P. JIJI,Communist Party of India (Marxist),38716,13/18,Result in Progress,2026-05-04 14:08:48
-S113,53,Kongad,കോങ്ങാട്,Palakkad,Centeral Keralam,Q13111675,THULASI TEACHER,Indian National Congress,ADV. K.SANTHAKUMARI,Communist Party of India (Marxist),4250,8/10,Result in Progress,2026-05-04 14:08:48
-S113,114,Konni,കോന്നി,Pathanamthitta,South Keralam,Q20577849,ADV K U JENISH KUMAR,Communist,PROF SATHEESH KOCHUPARAMBIL,Indian National Congress,445,9/17,Result in Progress,2026-05-04 14:08:48
-S113,87,Kothamangalam,കോതമംഗലം,Ernakulam,Centeral Keralam,Q16135561,SHIBU THECKUMPURAM,Kerala Congress,ANTONY JOHN,Communist Party of India (Marxist),14553,12/14,Result in Progress,2026-05-04 14:08:48
-S113,46,Kottakkal,കോട്ടക്കൽ,Malappuram,North Keralam,Q13111682,PROF. ABID HUSSAIN THANGAL,Indian Union Muslim League,PREETHI KONCHATH,Communist Party of India (Marxist),29250,7/18,Result in Progress,2026-05-04 14:08:48
-S113,119,Kottarakkara,കൊട്ടാരക്കര,Kollam,South Keralam,Q13111616,K.N. BALAGOPAL,Communist,ADV.P. AISHA POTTY,Indian National Congress,468,9/15,Result in Progress,2026-05-04 14:08:48
-S113,97,Kottayam,കോട്ടയം,Kottayam,Centeral Keralam,Q13111688,THIRUVANCHOOR RADHAKRISHNAN,Indian National Congress,ADV.K. ANILKUMAR,Communist Party of India (Marxist),31925,12/15,Result in Progress,2026-05-04 14:08:48
-S113,139,Kovalam,കോവളം,Thiruvananthapuram,South Keralam,Q13111733,ADV. M.VINCENT,Indian National Congress,BHAGATH RUFUS,Independent,18978,13/20,Result in Progress,2026-05-04 14:08:48
-S114,27,Kozhikode North,കോഴിക്കോട് നോർത്ത്,Kozhikode,North Keralam,Q13111729,ADV.K JAYANTH,Indian National Congress,THOTTATHIL RAVINDRAN,Communist Party of India (Marxist),1348,14/17,Result in Progress,2026-05-04 14:08:48
-S114,28,Kozhikode South,കോഴിക്കോട് തെക്ക്,Kozhikode,North Keralam,Q24204696,ADV. FYZAL BABU,Indian Union Muslim League,AHAMMAD DEVARKOVIL,Indian National League,8097,10/12,Result in Progress,2026-05-04 14:08:48
-S114,123,Kundara,കുണ്ടറ,Kollam,South Keralam,Q13111296,P. C. VISHNUNADH,Indian National Congress,S. L. SAJIKUMAR,Communist Party of India (Marxist),30258,15/17,Result in Progress,2026-05-04 14:08:48
-S114,30,Kunnamangalam,കുന്ദമംഗലം,Kozhikode,North Keralam,Q13111313,M.A. RAZAK MASTER,Indian Union Muslim League,ADV. P T A RAHIM,Independent,12352,13/19,Result in Progress,2026-05-04 14:08:48
-S114,62,Kunnamkulam,കുന്നംകുളം,Thrissur,Centeral Keralam,Q13111317,A C MOIDEEN,Communist,P T AJAY MOHAN,Indian National Congress,5588,13/15,Result in Progress,2026-05-04 14:08:48
-S114,84,Kunnathunad,കുന്നത്തുനാട്,Ernakulam,Centeral Keralam,Q13111319,V. P. SAJEENDRAN,Indian National Congress,ADV. P. V. SREENIJIN,Communist Party of India (Marxist),20536,15/16,Result in Progress,2026-05-04 14:08:48
-S114,118,Kunnathur,കുന്നത്തൂർ,Kollam,South Keralam,Q17414812,ULLAS KOVUR,Revolutionary Socialist,KOVOOR KUNJUMON,Kerala Revolutionary Socialist Party (Leninist- Marxist),22270,14/17,Result in Progress,2026-05-04 14:08:48
-S114,14,Kuthuparamba,കൂത്തുപറമ്പ്,Kannur,North Keralam,Q17379603,P K PRAVEEN,Rashtriya Janata Dal,JAYANTHI RAJAN,Indian Union Muslim League,6379,13/16,Result in Progress,2026-05-04 14:08:48
-S114,106,Kuttanad,കുട്ടനാട്,Alappuzha,South Keralam,Q16135972,REJI CHERIYAN,Kerala Congress,THOMAS K. THOMAS,Nationalist Congress Party - Sharadchandra Pawar,11387,8/13,Result in Progress,2026-05-04 14:08:48
-S114,21,Kuttiady,കുറ്റ്യാടി,Kozhikode,North Keralam,Q16136660,PARAKKAL ABDULLA,Indian Union Muslim League,K. P. KUNHAMMEDKUTTY MASTER,Communist Party of India (Marxist),9938,14/17,Result in Progress,2026-05-04 14:08:48
-S114,55,Malampuzha,മലമ്പുഴ,Palakkad,Centeral Keralam,Q16135283,A PRABHAKARAN,Communist,C KRISHNAKUMAR,Bharatiya Janata Party,19721,14/14,Result in Progress,2026-05-04 14:08:48
-S114,40,Malappuram,മലപ്പുറം,Malappuram,North Keralam,Q16135164,P.K KUNHALIKUTTY,Indian Union Muslim League,K.T. MUJEEB RAHMAN,Nationalist Congress Party - Sharadchandra Pawar,47937,13/25,Result in Progress,2026-05-04 14:08:48
-S114,64,Manalur,മണലൂർ,Thrissur,Centeral Keralam,Q6746846,T N PRATHAPAN,Indian National Congress,PROF C RAVINDRANATH,Communist Party of India (Marxist),1311,10/17,Result in Progress,2026-05-04 14:08:48
-S114,17,Mananthavady,മാനന്തവാടി,Wayanad,North Keralam,Q16136061,USHA VIJAYAN,Indian National Congress,O R KELU,Communist Party of India (Marxist),7932,15/17,Result in Progress,2026-05-04 14:08:48
-S114,37,Manjeri,മഞ്ചേരി,Malappuram,North Keralam,Q13113783,ADV. M. RAHMATHULLA,Indian Union Muslim League,V.M. MUSTHAFA,Independent,43322,16/20,Result in Progress,2026-05-04 14:08:48
-S114,1,Manjeshwaram,മഞ്ചേശ്വരം,Kasaragod,North Keralam,Q13113782,A K M ASHRAF,Indian Union Muslim League,K SURENDRAN,Bharatiya Janata Party,26093,11/17,Result in Progress,2026-05-04 14:08:48
-S114,39,Mankada,മങ്കട,Malappuram,North Keralam,Q13113774,MANJALAMKUZHI ALI,Indian Union Muslim League,KUNNATH MOHAMED S/O ALI HAJI,Independent,37993,16/22,Result in Progress,2026-05-04 14:08:48
-S114,54,Mannarkkad,മണ്ണാർക്കാട്,Palakkad,Centeral Keralam,Q13113828,ADV. N. SAMSUDHEEN,Indian Union Muslim League,MANZIL ABOOBACKER,Communist Party of India,25967,11/12,Result in Progress,2026-05-04 14:08:48
-S114,15,Mattanur,മട്ടന്നൂർ,Kannur,North Keralam,Q16134425,V K SANOJ,Communist,CHANDRAN THILLANKERI,Indian National Congress,12800,13/15,Result in Progress,2026-05-04 14:08:48
-S114,109,Mavelikara,മാവേലിക്കര,Alappuzha,South Keralam,Q16136384,M.S. ARUN KUMAR,Communist,ADV. MUTHARA RAJ,Indian National Congress,14291,15/17,Result in Progress,2026-05-04 14:08:48
-S115,86,Muvattupuzha,മൂവാറ്റുപുഴ,Ernakulam,Centeral Keralam,Q16137625,DR. MATHEW KUZHALNADAN,Indian National Congress,N ARUN,Communist Party of India,41173,14/15,Result in Progress,2026-05-04 14:08:48
-S115,22,Nadapuram,നാദാപുരം,Kozhikode,North Keralam,Q13112855,K.M. ABHIJITH,Indian National Congress,ADV.P. VASANTHAM,Communist Party of India,13858,13/19,Result in Progress,2026-05-04 14:08:48
-S115,68,Nattika,നാട്ടിക,Thrissur,Centeral Keralam,Q6980360,GEETHAGOPI,Communist,ADV. SUNIL LALOOR,Indian National Congress,7093,17/17,Result in Progress,2026-05-04 14:08:48
-S115,130,Nedumangad,നെടുമങ്ങാട്,Thiruvananthapuram,South Keralam,Q16136140,G R ANIL,Communist,MEENANKAL KUMAR,Indian National Congress,11426,11/18,Result in Progress,2026-05-04 14:08:48
-S115,59,Nenmara,നെന്മാറ,Palakkad,Centeral Keralam,Q13112978,K PREMAN,Communist,A. THANKAPPAN,Indian National Congress,3194,14/15,Result in Progress,2026-05-04 14:08:48
-S115,135,Nemom,നേമം,Thiruvananthapuram,South Keralam,Q13113005,RAJEEV CHANDRASEKHAR,Bharatiya Janata,V SIVANKUTTY,Communist Party of India (Marxist),2151,11/18,Result in Progress,2026-05-04 14:08:48
-S115,140,Neyyattinkara,നെയ്യാറ്റിൻകര,Thiruvananthapuram,South Keralam,Q16136265,N. SHAKTHAN,Indian National Congress,K. ANSALAN,Communist Party of India (Marxist),6173,17/18,Result in Progress,2026-05-04 14:08:48
-S115,35,Nilambur,നിലമ്പൂർ,Malappuram,North Keralam,Q13112913,ARYADAN SHOUKATH,Indian National Congress,U SHARAFALI,Independent,54851,19/19,Result Declared,2026-05-04 14:08:48
-S115,66,Ollur,ഒല്ലൂർ,Thrissur,Centeral Keralam,Q7088394,K RAJAN,Communist,ADV. SHAJI J KODANKANDATH,Indian National Congress,6550,8/16,Result in Progress,2026-05-04 14:08:48
-S115,52,Ottapalam,ഒറ്റപ്പാലം,Palakkad,Centeral Keralam,Q13110827,ADV. K. PREMKUMAR,Communist,P.K SASI P.K.S S/O PADMINI AMMA,Independent,26910,14/16,Result in Progress,2026-05-04 14:08:48
-S115,93,Pala,പാലാ,Kottayam,Centeral Keralam,Q13113213,MANI C KAPPEN,Independent,JOSE K MANI,Kerala Congress (M),2417,15/16,Result in Progress,2026-05-04 14:08:48
-S115,56,Palakkad,പാലക്കാട്,Palakkad,Centeral Keralam,Q18536954,RAMESH PISHARODY,Indian National Congress,SOBHA SURENDRAN,Bharatiya Janata Party,12462,9/11,Result in Progress,2026-05-04 14:08:48
-S115,137,Parassala,പാറശ്ശാല,Thiruvananthapuram,South Keralam,Q13113201,C K HAREENDRAN,Communist,NEYYATTINKARA SANAL,Indian National Congress,10199,14/20,Result in Progress,2026-05-04 14:08:48
-S115,78,Paravur,പറവൂർ,Ernakulam,Centeral Keralam,Q13113120,ADV.V.D.SATHEESAN,Indian National Congress,E.T.TAISON MASTER,Communist Party of India,11376,12/16,Result in Progress,2026-05-04 14:08:48
-S115,120,Pathanapuram,പത്തനാപുരം,Kollam,South Keralam,Q13113068,JYOTHI KUMAR CHAMAKKALA,Indian National Congress,K B GANESH KUMAR,Kerala Congress (B),7850,12/14,Result in Progress,2026-05-04 14:08:48
-S115,50,Pattambi,പട്ടാമ്പി,Palakkad,Centeral Keralam,Q13113050,MUHAMMED MUHASSIN,Communist,T. P. SHAJI,Indian National Congress,9442,15/15,Result in Progress,2026-05-04 14:08:48
-S115,6,Payyanur,പയ്യന്നൂർ,Kannur,North Keralam,Q17379122,V. KUNHIKRISHNAN,Independent,T. I. MADHUSOODANAN,Communist Party of India (Marxist),7487,14/14,Result in Progress,2026-05-04 14:08:48
-S115,92,Peerumade,പീരുമേട്,Idukki,Centeral Keralam,Q16135018,ADV.CYRIAC THOMAS,Indian National Congress,K SALIMKUMAR,Communist Party of India,27634,16/16,Result in Progress,2026-05-04 14:08:48
-S115,24,Perambra,പേരാമ്പ്ര,Kozhikode,North Keralam,Q13113475,ADV. FATHIMA THAHILIYA,Indian Union Muslim League,T. P. RAMAKRISHNAN,Communist Party of India (Marxist),7720,11/17,Result in Progress,2026-05-04 14:08:48
-S115,16,Peravoor,പേരാവൂർ,Kannur,North Keralam,Q17385405,ADV. SUNNY JOSEPH,Indian National Congress,K K SHAILAJA TEACHER,Communist Party of India (Marxist),7505,8/14,Result in Progress,2026-05-04 14:08:48
-S116,38,Perinthalmanna,പെരിന്തൽമണ്ണ,Malappuram,North Keralam,Q13113446,NAJEEB KANTHAPURAM,Indian Union Muslim League,V.P MOHAMMED HANEEFA,Communist Party of India (Marxist),30028,17/21,Result in Progress,2026-05-04 14:08:48
-S116,74,Perumbavoor,പെരുമ്പാവൂർ,Ernakulam,Centeral Keralam,Q16136149,MANOJ MOOTHEDAN,Indian National Congress,BASIL PAUL,Kerala Congress (M),28434,15/15,Result in Progress,2026-05-04 14:08:48
-S116,85,Piravom,പിറവം,Ernakulam,Centeral Keralam,Q13113295,ANOOP JACOB,Kerala Congress (Jacob),SABU K JACOB,Kerala Congress (M),44112,15/17,Result in Progress,2026-05-04 14:08:48
-S116,48,Ponnani,പൊന്നാനി,Malappuram,North Keralam,Q7227905,K.P NOUSHAD ALI,Indian National Congress,ADV.M.K SAKKEER,Communist Party of India (Marxist),8214,11/16,Result in Progress,2026-05-04 14:08:48
-S116,101,Poonjar,പൂഞ്ഞാർ,Kottayam,Centeral Keralam,Q16135693,ADV.SEBASTIAN M.J,Indian National Congress,ADV. SEBASTIAN KULATHUNKAL,Kerala Congress (M),4982,12/16,Result in Progress,2026-05-04 14:08:48
-S116,71,Puthukkad,പുതുക്കാട്,Thrissur,Centeral Keralam,Q7258374,K K RAMACHANDRAN,Communist,K M BABURAJAN,Indian National Congress,2329,15/17,Result in Progress,2026-05-04 14:08:48
-S116,121,Punalur,പുനലൂർ,Kollam,South Keralam,Q13113349,C. AJAYAPRASAD,Communist,NOUSHAD YOUNUS,Indian Union Muslim League,21502,16/17,Result in Progress,2026-05-04 14:08:48
-S116,98,Puthuppally,പുതുപ്പള്ളി,Kottayam,Centeral Keralam,Q13113317,ADV. CHANDY OOMMEN,Indian National Congress,K. M. RADHAKRISHNAN,Communist Party of India (Marxist),52907,15/15,Result Declared,2026-05-04 14:08:48
-S116,23,Koyilandy,കൊയിലാണ്ടി,Kozhikode,North Keralam,Q13111637,ADV. K. PRAVEEN KUMAR,Indian National Congress,K. DASAN,Communist Party of India (Marxist),9053,12/17,Result in Progress,2026-05-04 14:08:48
-S116,112,Ranni,റാന്നി,Pathanamthitta,South Keralam,Q13114408,ADV. PAZHAKULAM MADHU,Indian National Congress,ADV. PRAMOD NARAYAN,Kerala Congress (M),3225,9/18,Result in Progress,2026-05-04 14:08:48
-S116,51,Shornur,ഷൊർണ്ണൂർ,Palakkad,Centeral Keralam,Q13114979,P.MAMMIKUTTY,Communist,P.HARIGOVINDAN,Indian National Congress,16517,12/12,Result Declared,2026-05-04 14:08:48
-S116,18,Sulthan Bathery,സുൽത്താൻ ബത്തേരി,Wayanad,North Keralam,Q13115144,I C BALAKRISHNAN,Indian National Congress,M S VISWANATHAN,Communist Party of India (Marxist),16597,18/18,Result in Progress,2026-05-04 14:08:48
-S116,8,Taliparamba,തളിപ്പറമ്പ്,Kannur,North Keralam,Q17379268,T K GOVINDAN MASTER S/O KUNHIKKANNAN NAMBIAR,Independent,P K SHYAMALA TEACHER,Communist Party of India (Marxist),10375,11/17,Result in Progress,2026-05-04 14:08:48
-S116,44,Tanur,താനൂർ,Malappuram,North Keralam,Q16136996,P K NAVAS,Indian Union Muslim League,MOHAMED SAMEER T THIRUTHIYIL HOUSE,Independent,17980,10/16,Result in Progress,2026-05-04 14:08:48
-S116,57,Tarur,തരൂർ,Palakkad,Centeral Keralam,Q16136772,SUMOD,Communist,SUBRAMANIAN K C,Indian National Congress,11910,14/14,Result in Progress,2026-05-04 14:08:48
-S116,13,Thalassery,തലശ്ശേരി,Kannur,North Keralam,Q7709532,KARAYI RAJAN,Communist,SAJU K P,Indian National Congress,18591,13/15,Result in Progress,2026-05-04 14:08:48
-S116,47,Thavanur,തവനൂർ,Malappuram,North Keralam,Q16136920,ADV. V S JOY,Indian National Congress,DR. K T JALEEL,Independent,14576,16/17,Result in Progress,2026-05-04 14:08:48
-S116,111,Thiruvalla,തിരുവല്ല,Pathanamthitta,South Keralam,Q16137335,ADV.VARGHESE MAMMEN,Kerala Congress,ANOOP ANTONY,Bharatiya Janata Party,7141,15/18,Result in Progress,2026-05-04 14:08:48
-S116,32,Thiruvambady,തിരുവമ്പാടി,Kozhikode,North Keralam,Q13112497,C K KASIM,Indian Union Muslim League,LINTO JOSEPH,Communist Party of India (Marxist),6741,15/15,Result Declared,2026-05-04 14:08:48
-S116,134,Thiruvananthapuram,തിരുവനന്തപുരം,Thiruvananthapuram,South Keralam,Q16137289,C P JOHN,Communist Marxist,KARAMANA JAYAN,Bharatiya Janata Party,324,15/19,Result in Progress,2026-05-04 14:08:48
-S117,90,Thodupuzha,തൊടുപുഴ,Idukki,Centeral Keralam,Q16133853,APU JOHN JOSEPH,Kerala Congress,CYRIAC CHAZHIKADAN,Kerala Congress (M),40720,15/17,Result in Progress,2026-05-04 14:08:48
-S117,83,Thrikkakara,തൃക്കാക്കര,Ernakulam,Centeral Keralam,Q16137712,UMA THOMAS,Indian National Congress,ADV. PUSHPA DAS,Communist Party of India (Marxist),45723,17/20,Result in Progress,2026-05-04 14:08:48
-S117,81,Thrippunithura,തൃപ്പൂണിത്തുറ,Ernakulam,Centeral Keralam,Q13112618,DEEPAK JOY,Indian National Congress,K N UNNIKRISHNAN,Communist Party of India (Marxist),12041,12/21,Result in Progress,2026-05-04 14:08:48
-S117,67,Thrissur,തൃശ്ശൂർ,Thrissur,Centeral Keralam,Q7798271,RAJAN. J. PALLAN,Indian National Congress,ALANKODE LEELAKRISHNAN,Communist Party of India,26803,16/16,Result Declared,2026-05-04 14:08:48
-S117,49,Thrithala,തൃത്താല,Palakkad,Centeral Keralam,Q13112607,V T BALRAM,Indian National Congress,M B RAJESH,Communist Party of India (Marxist),10762,12/16,Result in Progress,2026-05-04 14:08:48
-S117,45,Tirur,തിരൂർ,Malappuram,North Keralam,Q16137421,KURUKKOLI MOIDEEN,Indian Union Muslim League,V.ABDURAHIMAN,Communist Party of India (Marxist),12318,8/18,Result in Progress,2026-05-04 14:08:48
-S117,43,Tirurangadi,തിരൂരങ്ങാടി,Malappuram,North Keralam,Q13112529,P M A SAMEER,Indian Union Muslim League,AJITH KOLADI,Communist Party of India,31783,8/15,Result in Progress,2026-05-04 14:08:48
-S117,5,Thrikaripur,തൃക്കരിപ്പൂർ,Kasaragod,North Keralam,Q16137696,DR. V P P MUSTAFA,Communist,SANDEEP VARIER,Indian National Congress,2956,12/16,Result in Progress,2026-05-04 14:08:48
-S117,3,Udma,ഉദുമ,Kasaragod,North Keralam,Q13110513,NEELAKANDAN,Indian National Congress,C H KUNHAMBU,Communist Party of India (Marxist),7305,15/17,Result in Progress,2026-05-04 14:08:48
-S117,89,Udumbanchola,ഉടുമ്പൻചോല,Idukki,Centeral Keralam,Q16133944,ADV. SENAPATHY VENU,Indian National Congress,K.K. JAYACHANDRAN,Communist Party of India (Marxist),20021,15/15,Result Declared,2026-05-04 14:08:48
-S117,20,Vatakara,വടകര,Kozhikode,North Keralam,Q13114485,K K REMA,Revolutionary Marxist,M K BHASKARAN,Rashtriya Janata Dal,14794,14/15,Result in Progress,2026-05-04 14:08:48
-S117,95,Vaikom,വൈക്കം,Kottayam,Centeral Keralam,Q13114860,K BINIMON,Indian National Congress,P PRADEEP,Communist Party of India,1360,13/13,Result in Progress,2026-05-04 14:08:48
-S117,42,Vallikkunnu,വള്ളിക്കുന്ന്,Malappuram,North Keralam,Q16135944,T V IBRAHIM,Indian Union Muslim League,ADV. MUSTHAFA,Independent,37300,12/17,Result in Progress,2026-05-04 14:08:48
-S117,131,Vamanapuram,വാമനപുരം,Thiruvananthapuram,South Keralam,Q16136220,MUHAMMED SUDHEERSHA S,Indian National Congress,MURALEEDHARAN NAIR D K,Communist Party of India (Marxist),11198,16/20,Result in Progress,2026-05-04 14:08:48
-S117,127,Varkala,വർക്കല,Thiruvananthapuram,South Keralam,Q16134163,ADV.V JOY,Communist,VARKALA KAHAR,Indian National Congress,2543,14/17,Result in Progress,2026-05-04 14:08:48
-S117,133,Vattiyoorkavu,വട്ടിയൂർക്കാവ്,Thiruvananthapuram,South Keralam,Q13114513,ADV. V.K PRASANTH,Communist,K. MURALEEDHARAN,Indian National Congress,10,13/18,Result in Progress,2026-05-04 14:08:48
-S117,41,Vengara,വേങ്ങര,Malappuram,North Keralam,Q13114838,K.M. SHAJI,Indian Union Muslim League,SABAH KUNDUPUZHAKKAL,Independent,22577,11/14,Result in Progress,2026-05-04 14:08:48
-S117,79,Vypin,വൈപ്പിൻ,Ernakulam,Centeral Keralam,Q13114876,TONY CHAMMANY,Indian National Congress,ADV. M. B. SHYNI,Communist Party of India (Marxist),14922,15/16,Result in Progress,2026-05-04 14:08:48
-S117,65,Wadakkanchery,വടക്കാഞ്ചേരി,Thrissur,Centeral Keralam,Q16135293,XAVIER CHITTILAPPILLY,Communist,P.N. VAISAKH,Indian National Congress,5690,17/17,Result in Progress,2026-05-04 14:08:48
-S117,36,Wandoor,വണ്ടൂർ,Malappuram,North Keralam,Q16135444,A.P ANILKUMAR,Indian National Congress,DR.K.K DAMODARAN,Communist Party of India (Marxist),36713,14/19,Result in Progress,2026-05-04 14:08:48
+S111,115,Adoor,അടൂർ,Pathanamthitta,South Keralam,Q7601892,ADVOCATE C V SANTHAKUMAR,Indian National Congress,PRIJI KANNAN,Communist Party of India,5936,13/17,Result in Progress,2026-05-04 14:20:28
+S111,104,Alappuzha,ആലപ്പുഴ,Alappuzha,South Keralam,Q13110290,A.D THOMAS,Indian National Congress,P.P.CHITHARANJAN,Communist Party of India (Marxist),16035,14/16,Result in Progress,2026-05-04 14:20:28
+S111,60,Alathur,ആലത്തൂർ,Palakkad,Centeral Keralam,Q16136878,T M SASI,Communist,K M FEBIN,Indian National Congress,8553,13/13,Result Declared,2026-05-04 14:20:28
+S111,76,Aluva,ആലുവ,Ernakulam,Centeral Keralam,Q13110297,ANWAR SADATH,Indian National Congress,ADVOCATE A.M.ARIFF,Communist Party of India (Marxist),13336,9/18,Result in Progress,2026-05-04 14:20:28
+S111,105,Ambalappuzha,അമ്പലപ്പുഴ,Alappuzha,South Keralam,Q13110066,G.SUDHAKARAN,Independent,H. SALAM,Communist Party of India (Marxist),20378,10/14,Result in Progress,2026-05-04 14:20:28
+S111,75,Angamaly,അങ്കമാലി,Ernakulam,Centeral Keralam,Q7601651,ROJI M JOHN,Indian National Congress,SAJU PAUL,Communist Party of India (Marxist),23102,10/16,Result in Progress,2026-05-04 14:20:28
+S111,113,Aranmula,ആറന്മുള,Pathanamthitta,South Keralam,Q16136677,ABIN VARKEY KODIYATTU,Indian National Congress,VEENA GEORGE,Communist Party of India (Marxist),14149,17/20,Result in Progress,2026-05-04 14:20:28
+S111,102,Aroor,അരൂർ,Alappuzha,South Keralam,Q13110113,ADV. SHANIMOL OSMAN,Indian National Congress,DALEEMA,Communist Party of India (Marxist),9430,14/15,Result in Progress,2026-05-04 14:20:28
+S111,136,Aruvikkara,അരുവിക്കര,Thiruvananthapuram,South Keralam,Q7602920,ADV. G. STEEPHEN,Communist,V. S. SIVAKUMAR,Indian National Congress,2892,16/20,Result in Progress,2026-05-04 14:20:28
+S111,128,Attingal,ആറ്റിങ്ങൽ,Thiruvananthapuram,South Keralam,Q16136708,O.S AMBIKA,Communist,ADV. P SUDHEER,Bharatiya Janata Party,11171,13/16,Result in Progress,2026-05-04 14:20:28
+S111,10,Azhikode,അഴീക്കോട്,Kannur,North Keralam,Q13110133,K. V. SUMESH,Communist,ADV. KAREEM CHELERI,Indian Union Muslim League,358,13/14,Result in Progress,2026-05-04 14:20:28
+S111,25,Balussery,ബാലുശ്ശേരി,Kozhikode,North Keralam,Q16137581,V.T. SOORAJ,Indian National Congress,ADV. K.M. SACHINDEV,Communist Party of India (Marxist),16980,19/19,Result in Progress,2026-05-04 14:20:28
+S111,29,Beypore,ബേപ്പൂർ,Kozhikode,North Keralam,Q13113680,P.A MOHAMED RIYAS,Communist,P V ANVAR S/O SHOUKATHALI,Independent,3956,14/16,Result in Progress,2026-05-04 14:20:28
+S111,122,Chadayamangalam,ചടയമംഗലം,Kollam,South Keralam,Q16137010,M. M. NASEER,Indian National Congress,J. CHINCHURANI,Communist Party of India,3360,11/15,Result in Progress,2026-05-04 14:20:28
+S111,72,Chalakudy,ചാലക്കുടി,Thrissur,Centeral Keralam,Q5068546,SANEESHKUMAR JOSEPH,Indian National Congress,ADV. BIJU S CHIRAYATH,Kerala Congress (M),20099,14/16,Result in Progress,2026-05-04 14:20:28
+S111,99,Changanassery,ചങ്ങനാശ്ശേരി,Kottayam,Centeral Keralam,Q16136954,VINU JOB KUZHIMANNIL,Kerala Congress,ADV. JOB MAICHIL,Kerala Congress (M),8368,15/15,Result in Progress,2026-05-04 14:20:28
+S111,126,Chathannoor,ചാത്തന്നൂർ,Kollam,South Keralam,Q13111908,B.B.GOPAKUMAR,Bharatiya Janata,ADV.R.RAJENDRAN,Communist Party of India,3686,13/16,Result in Progress,2026-05-04 14:20:28
+S111,117,Chavara,ചവറ,Kollam,South Keralam,Q13111898,SHIBU BABY JOHN,Revolutionary Socialist,DR.SUJITH VIJAYANPILLAI,Independent,18573,14/14,Result in Progress,2026-05-04 14:20:28
+S111,61,Chelakkara,ചേലക്കര,Thrissur,Centeral Keralam,Q5089791,U R PRADEEP,Communist,SIVADASAN (SIVAN VEETTIKUNNU),Independent,29386,16/16,Result Declared,2026-05-04 14:20:28
+S111,110,Chengannur,ചെങ്ങന്നൂർ,Alappuzha,South Keralam,Q13112004,SAJI CHERIAN,Communist,ADV. ABI KURIAKOSE,Indian National Congress,8481,13/15,Result in Progress,2026-05-04 14:20:28
+S112,103,Cherthala,ചേർത്തല,Alappuzha,South Keralam,Q16134436,P. PRASAD,Communist,K.R. RAJENDRA PRASAD,Indian National Congress,11064,14/17,Result in Progress,2026-05-04 14:20:28
+S112,129,Chirayinkeezhu,ചിറയൻകീഴ്,Thiruvananthapuram,South Keralam,Q16137800,RAMYA HARIDAS,Indian National Congress,MANOJ EDAMANA,Communist Party of India,1144,15/16,Result in Progress,2026-05-04 14:20:28
+S112,58,Chittur,ചിറ്റൂർ,Palakkad,Centeral Keralam,Q13111967,ADV. SUMESH ACHUTHAN,Indian National Congress,ADV. V. MURUGADAS,Indian Socialist Janata Dal,6468,13/15,Result in Progress,2026-05-04 14:20:28
+S112,88,Devikulam,ദേവികുളം,Idukki,Centeral Keralam,Q16134525,F. RAJA,Indian National Congress,ADV. A. RAJA,Communist Party of India (Marxist),4347,13/16,Result in Progress,2026-05-04 14:20:28
+S112,12,Dharmadom,ധർമ്മടം,Kannur,North Keralam,Q13112766,PINARAYI VIJAYAN,Communist,ADV. V.P ABDUL RASHEED,Indian National Congress,8241,12/15,Result in Progress,2026-05-04 14:20:28
+S112,26,Elathur,എലത്തൂർ,Kozhikode,North Keralam,Q16135458,ADV.VIDYA BALAKRISHNAN,Indian National Congress,A.K.SASEENDRAN S/O KUNJAMBU,Nationalist Congress Party - Sharadchandra Pawar,9127,13/15,Result in Progress,2026-05-04 14:20:28
+S112,82,Ernakulam,എറണാകുളം,Ernakulam,Centeral Keralam,Q16135415,T.J VINOD,Indian National Congress,SABU GEORGE,Independent,36163,15/15,Result in Progress,2026-05-04 14:20:28
+S112,125,Eravipuram,ഇരവിപുരം,Kollam,South Keralam,Q13110435,ADV.VISHNU MOHAN,Revolutionary Socialist,M.NOUSHAD,Communist Party of India (Marxist),8699,13/15,Result in Progress,2026-05-04 14:20:28
+S112,34,Eranad,ഏറനാട്,Malappuram,North Keralam,Q13110769,P.K.BASHEER,Indian Union Muslim League,ADV.SHAFEER KIZHISSERI,Communist Party of India,37644,16/18,Result in Progress,2026-05-04 14:20:28
+S112,96,Ettumanoor,ഏറ്റുമാനൂർ,Kottayam,Centeral Keralam,Q16135978,NATTAKOM SURESH,Indian National Congress,V. N. VASAVAN,Communist Party of India (Marxist),19159,12/13,Result in Progress,2026-05-04 14:20:28
+S112,63,Guruvayur,ഗുരുവായൂർ,Thrissur,Centeral Keralam,Q5620568,N. K. AKBAR,Communist,C. H. RASHEED,Indian Union Muslim League,1239,12/17,Result in Progress,2026-05-04 14:20:28
+S112,107,Haripad,ഹരിപ്പാട്,Alappuzha,South Keralam,Q16137908,RAMESH CHENNITHALA,Indian National Congress,T.T.JISMON,Communist Party of India,23377,15/15,Result Declared,2026-05-04 14:20:28
+S112,91,Idukki,ഇടുക്കി,Idukki,Centeral Keralam,Q13110378,ROY K PAULOSE,Indian National Congress,ROSHY AUGUSTINE,Kerala Congress (M),23717,16/16,Result in Progress,2026-05-04 14:20:28
+S112,9,Irikkur,ഇരിക്കൂർ,Kannur,North Keralam,Q13110432,ADV. SAJEEV JOSEPH,Indian National Congress,ADV. MATHEW KUNNAPPALLY,Kerala Congress (M),35064,13/16,Result in Progress,2026-05-04 14:20:28
+S112,70,Irinjalakuda,ഇരിങ്ങാലക്കുട,Thrissur,Centeral Keralam,Q6070028,ADV. THOMAS UNNIYADAN,Kerala Congress,DR.R.BINDU,Communist Party of India (Marxist),10212,16/16,Result in Progress,2026-05-04 14:20:28
+S112,94,Kaduthuruthy,കടുത്തുരുത്തി,Kottayam,Centeral Keralam,Q13110914,ADV.MONS JOSEPH,Kerala Congress,NIRMALA JIMMY,Kerala Congress (M),25147,12/15,Result in Progress,2026-05-04 14:20:28
+S112,69,Kaipamangalam,കയ്പമംഗലം,Thrissur,Centeral Keralam,Q6348174,K.K. VALSARAJ,Communist,T.M. NAZAR,Indian National Congress,9575,13/15,Result in Progress,2026-05-04 14:20:28
+S112,77,Kalamassery,കളമശ്ശേരി,Ernakulam,Centeral Keralam,Q16134141,ADV. V E ABDUL GAFOOR,Indian Union Muslim League,P RAJEEVE,Communist Party of India (Marxist),10723,9/16,Result in Progress,2026-05-04 14:20:28
+S112,7,Kalliasseri,കല്ല്യാശ്ശേരി,Kannur,North Keralam,Q13111077,M.VIJIN,Communist,ADV. RAJEEVAN KAPPACHERI,Indian National Congress,18433,14/14,Result in Progress,2026-05-04 14:20:28
+S112,19,Kalpetta,കല്പറ്റ,Wayanad,North Keralam,Q13111054,ADV. T SIDDIQUE,Indian National Congress,P K ANIL KUMAR,Rashtriya Janata Dal,45031,17/17,Result in Progress,2026-05-04 14:20:28
+S113,4,Kanhangad,കാഞ്ഞങ്ങാട്,Kasaragod,North Keralam,Q13111113,ADV. GOVINDAN PALLIKAPPIL,Communist,SHAIJI OTTAPALLI,Kerala Congress,15316,19/19,Result in Progress,2026-05-04 14:20:28
+S113,100,Kanjirappally,കാഞ്ഞിരപ്പള്ളി,Kottayam,Centeral Keralam,Q16134543,RONY K BABY,Indian National Congress,DR. N. JAYARAJ,Kerala Congress (M),5535,14/15,Result in Progress,2026-05-04 14:20:28
+S113,11,Kannur,കണ്ണൂർ,Kannur,North Keralam,Q16137348,ADV.T.O. MOHANAN,Indian National Congress,RAMACHANDRAN KADANNAPPALLI,Congress (Secular),16702,11/13,Result in Progress,2026-05-04 14:20:28
+S113,116,Karunagappally,കരുനാഗപ്പള്ളി,Kollam,South Keralam,Q13111030,C.R. MAHESH,Indian National Congress,ADV.M.S. THARA,Communist Party of India,23746,14/16,Result in Progress,2026-05-04 14:20:28
+S113,2,Kasaragod,കാസർഗോഡ്,Kasaragod,North Keralam,Q13111222,KALLATRA MAHIN,Indian Union Muslim League,ASHWINI M L,Bharatiya Janata Party,22698,16/16,Result in Progress,2026-05-04 14:20:28
+S113,138,Kattakkada,കാട്ടാക്കട,Thiruvananthapuram,South Keralam,Q6378291,M. R. BAIJU,Indian National Congress,ADV. I. B. SATHEESH,Communist Party of India (Marxist),7141,11/16,Result in Progress,2026-05-04 14:20:28
+S113,108,Kayamkulam,കായംകുളം,Alappuzha,South Keralam,Q13111157,ADV.M.LIJU,Indian National Congress,ADV.U.PRATHIBHA,Communist Party of India (Marxist),12687,14/17,Result in Progress,2026-05-04 14:20:28
+S113,132,Kazhakkoottam,കഴക്കൂട്ടം,Thiruvananthapuram,South Keralam,Q13111089,KADAKAMPALLY SURENDRAN,Communist,V. MURALEEDHARAN,Bharatiya Janata Party,1499,11/18,Result in Progress,2026-05-04 14:20:28
+S113,80,Kochi,കൊച്ചി,Ernakulam,Centeral Keralam,Q17372576,MOHAMMED SHIYAS,Indian National Congress,K.J. MAXY,Communist Party of India (Marxist),7655,15/18,Result in Progress,2026-05-04 14:20:28
+S113,73,Kodungallur,കൊടുങ്ങല്ലൂർ,Thrissur,Centeral Keralam,Q6425466,ADV. O J JANEESH,Indian National Congress,ADV. V R SUNIL KUMAR,Communist Party of India,8308,15/15,Result Declared,2026-05-04 14:20:28
+S113,31,Koduvally,കൊടുവള്ളി,Kozhikode,North Keralam,Q16135012,P K FIROS,Indian Union Muslim League,SALEEM MADAVOOR,Independent,33104,14/16,Result in Progress,2026-05-04 14:20:28
+S113,124,Kollam,കൊല്ലം,Kollam,South Keralam,Q48733036,ADV. BINDHU KRISHNA,Indian National Congress,S. JAYAMOHAN,Communist Party of India (Marxist),16830,14/14,Result Declared,2026-05-04 14:20:28
+S113,33,Kondotty,കൊണ്ടോട്ടി,Malappuram,North Keralam,Q16135092,T.P. ASHRAFALI,Indian Union Muslim League,DR. P. JIJI,Communist Party of India (Marxist),41116,14/18,Result in Progress,2026-05-04 14:20:28
+S113,53,Kongad,കോങ്ങാട്,Palakkad,Centeral Keralam,Q13111675,THULASI TEACHER,Indian National Congress,ADV. K.SANTHAKUMARI,Communist Party of India (Marxist),4250,8/10,Result in Progress,2026-05-04 14:20:28
+S113,114,Konni,കോന്നി,Pathanamthitta,South Keralam,Q20577849,ADV K U JENISH KUMAR,Communist,PROF SATHEESH KOCHUPARAMBIL,Indian National Congress,445,9/17,Result in Progress,2026-05-04 14:20:28
+S113,87,Kothamangalam,കോതമംഗലം,Ernakulam,Centeral Keralam,Q16135561,SHIBU THECKUMPURAM,Kerala Congress,ANTONY JOHN,Communist Party of India (Marxist),14553,12/14,Result in Progress,2026-05-04 14:20:28
+S113,46,Kottakkal,കോട്ടക്കൽ,Malappuram,North Keralam,Q13111682,PROF. ABID HUSSAIN THANGAL,Indian Union Muslim League,PREETHI KONCHATH,Communist Party of India (Marxist),29250,7/18,Result in Progress,2026-05-04 14:20:28
+S113,119,Kottarakkara,കൊട്ടാരക്കര,Kollam,South Keralam,Q13111616,K.N. BALAGOPAL,Communist,ADV.P. AISHA POTTY,Indian National Congress,468,9/15,Result in Progress,2026-05-04 14:20:28
+S113,97,Kottayam,കോട്ടയം,Kottayam,Centeral Keralam,Q13111688,THIRUVANCHOOR RADHAKRISHNAN,Indian National Congress,ADV.K. ANILKUMAR,Communist Party of India (Marxist),33964,13/15,Result in Progress,2026-05-04 14:20:28
+S113,139,Kovalam,കോവളം,Thiruvananthapuram,South Keralam,Q13111733,ADV. M.VINCENT,Indian National Congress,BHAGATH RUFUS,Independent,20791,14/20,Result in Progress,2026-05-04 14:20:28
+S114,27,Kozhikode North,കോഴിക്കോട് നോർത്ത്,Kozhikode,North Keralam,Q13111729,ADV.K JAYANTH,Indian National Congress,THOTTATHIL RAVINDRAN,Communist Party of India (Marxist),1348,14/17,Result in Progress,2026-05-04 14:20:28
+S114,28,Kozhikode South,കോഴിക്കോട് തെക്ക്,Kozhikode,North Keralam,Q24204696,ADV. FYZAL BABU,Indian Union Muslim League,AHAMMAD DEVARKOVIL,Indian National League,9683,11/12,Result in Progress,2026-05-04 14:20:28
+S114,123,Kundara,കുണ്ടറ,Kollam,South Keralam,Q13111296,P. C. VISHNUNADH,Indian National Congress,S. L. SAJIKUMAR,Communist Party of India (Marxist),30258,15/20,Result in Progress,2026-05-04 14:20:28
+S114,30,Kunnamangalam,കുന്ദമംഗലം,Kozhikode,North Keralam,Q13111313,M.A. RAZAK MASTER,Indian Union Muslim League,ADV. P T A RAHIM,Independent,12352,13/19,Result in Progress,2026-05-04 14:20:28
+S114,62,Kunnamkulam,കുന്നംകുളം,Thrissur,Centeral Keralam,Q13111317,A C MOIDEEN,Communist,P T AJAY MOHAN,Indian National Congress,5588,13/15,Result in Progress,2026-05-04 14:20:28
+S114,84,Kunnathunad,കുന്നത്തുനാട്,Ernakulam,Centeral Keralam,Q13111319,V. P. SAJEENDRAN,Indian National Congress,ADV. P. V. SREENIJIN,Communist Party of India (Marxist),21233,16/16,Result in Progress,2026-05-04 14:20:28
+S114,118,Kunnathur,കുന്നത്തൂർ,Kollam,South Keralam,Q17414812,ULLAS KOVUR,Revolutionary Socialist,KOVOOR KUNJUMON,Kerala Revolutionary Socialist Party (Leninist- Marxist),23668,15/17,Result in Progress,2026-05-04 14:20:28
+S114,14,Kuthuparamba,കൂത്തുപറമ്പ്,Kannur,North Keralam,Q17379603,P K PRAVEEN,Rashtriya Janata Dal,JAYANTHI RAJAN,Indian Union Muslim League,3788,14/16,Result in Progress,2026-05-04 14:20:28
+S114,106,Kuttanad,കുട്ടനാട്,Alappuzha,South Keralam,Q16135972,REJI CHERIYAN,Kerala Congress,THOMAS K. THOMAS,Nationalist Congress Party - Sharadchandra Pawar,12944,9/13,Result in Progress,2026-05-04 14:20:28
+S114,21,Kuttiady,കുറ്റ്യാടി,Kozhikode,North Keralam,Q16136660,PARAKKAL ABDULLA,Indian Union Muslim League,K. P. KUNHAMMEDKUTTY MASTER,Communist Party of India (Marxist),9938,14/17,Result in Progress,2026-05-04 14:20:28
+S114,55,Malampuzha,മലമ്പുഴ,Palakkad,Centeral Keralam,Q16135283,A PRABHAKARAN,Communist,C KRISHNAKUMAR,Bharatiya Janata Party,19721,14/14,Result in Progress,2026-05-04 14:20:28
+S114,40,Malappuram,മലപ്പുറം,Malappuram,North Keralam,Q16135164,P.K KUNHALIKUTTY,Indian Union Muslim League,K.T. MUJEEB RAHMAN,Nationalist Congress Party - Sharadchandra Pawar,47937,13/25,Result in Progress,2026-05-04 14:20:28
+S114,64,Manalur,മണലൂർ,Thrissur,Centeral Keralam,Q6746846,T N PRATHAPAN,Indian National Congress,PROF C RAVINDRANATH,Communist Party of India (Marxist),1530,11/17,Result in Progress,2026-05-04 14:20:28
+S114,17,Mananthavady,മാനന്തവാടി,Wayanad,North Keralam,Q16136061,USHA VIJAYAN,Indian National Congress,O R KELU,Communist Party of India (Marxist),8110,15/17,Result in Progress,2026-05-04 14:20:28
+S114,37,Manjeri,മഞ്ചേരി,Malappuram,North Keralam,Q13113783,ADV. M. RAHMATHULLA,Indian Union Muslim League,V.M. MUSTHAFA,Independent,43322,16/20,Result in Progress,2026-05-04 14:20:28
+S114,1,Manjeshwaram,മഞ്ചേശ്വരം,Kasaragod,North Keralam,Q13113782,A K M ASHRAF,Indian Union Muslim League,K SURENDRAN,Bharatiya Janata Party,26242,12/17,Result in Progress,2026-05-04 14:20:28
+S114,39,Mankada,മങ്കട,Malappuram,North Keralam,Q13113774,MANJALAMKUZHI ALI,Indian Union Muslim League,KUNNATH MOHAMED S/O ALI HAJI,Independent,38672,17/22,Result in Progress,2026-05-04 14:20:28
+S114,54,Mannarkkad,മണ്ണാർക്കാട്,Palakkad,Centeral Keralam,Q13113828,ADV. N. SAMSUDHEEN,Indian Union Muslim League,MANZIL ABOOBACKER,Communist Party of India,25903,12/12,Result in Progress,2026-05-04 14:20:28
+S114,15,Mattanur,മട്ടന്നൂർ,Kannur,North Keralam,Q16134425,V K SANOJ,Communist,CHANDRAN THILLANKERI,Indian National Congress,12800,13/15,Result in Progress,2026-05-04 14:20:28
+S114,109,Mavelikara,മാവേലിക്കര,Alappuzha,South Keralam,Q16136384,M.S. ARUN KUMAR,Communist,ADV. MUTHARA RAJ,Indian National Congress,14291,15/17,Result in Progress,2026-05-04 14:20:28
+S115,86,Muvattupuzha,മൂവാറ്റുപുഴ,Ernakulam,Centeral Keralam,Q16137625,DR. MATHEW KUZHALNADAN,Indian National Congress,N ARUN,Communist Party of India,41173,14/15,Result in Progress,2026-05-04 14:20:28
+S115,22,Nadapuram,നാദാപുരം,Kozhikode,North Keralam,Q13112855,K.M. ABHIJITH,Indian National Congress,ADV.P. VASANTHAM,Communist Party of India,12791,14/19,Result in Progress,2026-05-04 14:20:28
+S115,68,Nattika,നാട്ടിക,Thrissur,Centeral Keralam,Q6980360,GEETHAGOPI,Communist,ADV. SUNIL LALOOR,Indian National Congress,7093,17/17,Result in Progress,2026-05-04 14:20:28
+S115,130,Nedumangad,നെടുമങ്ങാട്,Thiruvananthapuram,South Keralam,Q16136140,G R ANIL,Communist,MEENANKAL KUMAR,Indian National Congress,12938,12/18,Result in Progress,2026-05-04 14:20:28
+S115,59,Nenmara,നെന്മാറ,Palakkad,Centeral Keralam,Q13112978,K PREMAN,Communist,A. THANKAPPAN,Indian National Congress,3305,15/15,Result in Progress,2026-05-04 14:20:28
+S115,135,Nemom,നേമം,Thiruvananthapuram,South Keralam,Q13113005,RAJEEV CHANDRASEKHAR,Bharatiya Janata,V SIVANKUTTY,Communist Party of India (Marxist),2151,11/18,Result in Progress,2026-05-04 14:20:28
+S115,140,Neyyattinkara,നെയ്യാറ്റിൻകര,Thiruvananthapuram,South Keralam,Q16136265,N. SHAKTHAN,Indian National Congress,K. ANSALAN,Communist Party of India (Marxist),6966,18/18,Result in Progress,2026-05-04 14:20:28
+S115,35,Nilambur,നിലമ്പൂർ,Malappuram,North Keralam,Q13112913,ARYADAN SHOUKATH,Indian National Congress,U SHARAFALI,Independent,54851,19/19,Result Declared,2026-05-04 14:20:28
+S115,66,Ollur,ഒല്ലൂർ,Thrissur,Centeral Keralam,Q7088394,K RAJAN,Communist,ADV. SHAJI J KODANKANDATH,Indian National Congress,6550,8/16,Result in Progress,2026-05-04 14:20:28
+S115,52,Ottapalam,ഒറ്റപ്പാലം,Palakkad,Centeral Keralam,Q13110827,ADV. K. PREMKUMAR,Communist,P.K SASI P.K.S S/O PADMINI AMMA,Independent,26746,15/16,Result in Progress,2026-05-04 14:20:28
+S115,93,Pala,പാലാ,Kottayam,Centeral Keralam,Q13113213,MANI C KAPPEN,Independent,JOSE K MANI,Kerala Congress (M),2417,15/16,Result in Progress,2026-05-04 14:20:28
+S115,56,Palakkad,പാലക്കാട്,Palakkad,Centeral Keralam,Q18536954,RAMESH PISHARODY,Indian National Congress,SOBHA SURENDRAN,Bharatiya Janata Party,12462,9/11,Result in Progress,2026-05-04 14:20:28
+S115,137,Parassala,പാറശ്ശാല,Thiruvananthapuram,South Keralam,Q13113201,C K HAREENDRAN,Communist,NEYYATTINKARA SANAL,Indian National Congress,11728,15/21,Result in Progress,2026-05-04 14:20:28
+S115,78,Paravur,പറവൂർ,Ernakulam,Centeral Keralam,Q13113120,ADV.V.D.SATHEESAN,Indian National Congress,E.T.TAISON MASTER,Communist Party of India,11376,12/16,Result in Progress,2026-05-04 14:20:28
+S115,120,Pathanapuram,പത്തനാപുരം,Kollam,South Keralam,Q13113068,JYOTHI KUMAR CHAMAKKALA,Indian National Congress,K B GANESH KUMAR,Kerala Congress (B),7850,12/14,Result in Progress,2026-05-04 14:20:28
+S115,50,Pattambi,പട്ടാമ്പി,Palakkad,Centeral Keralam,Q13113050,MUHAMMED MUHASSIN,Communist,T. P. SHAJI,Indian National Congress,9442,15/15,Result in Progress,2026-05-04 14:20:28
+S115,6,Payyanur,പയ്യന്നൂർ,Kannur,North Keralam,Q17379122,V. KUNHIKRISHNAN,Independent,T. I. MADHUSOODANAN,Communist Party of India (Marxist),7487,14/14,Result in Progress,2026-05-04 14:20:28
+S115,92,Peerumade,പീരുമേട്,Idukki,Centeral Keralam,Q16135018,ADV.CYRIAC THOMAS,Indian National Congress,K SALIMKUMAR,Communist Party of India,27634,16/16,Result Declared,2026-05-04 14:20:28
+S115,24,Perambra,പേരാമ്പ്ര,Kozhikode,North Keralam,Q13113475,ADV. FATHIMA THAHILIYA,Indian Union Muslim League,T. P. RAMAKRISHNAN,Communist Party of India (Marxist),7224,12/17,Result in Progress,2026-05-04 14:20:28
+S115,16,Peravoor,പേരാവൂർ,Kannur,North Keralam,Q17385405,ADV. SUNNY JOSEPH,Indian National Congress,K K SHAILAJA TEACHER,Communist Party of India (Marxist),9249,9/14,Result in Progress,2026-05-04 14:20:28
+S116,38,Perinthalmanna,പെരിന്തൽമണ്ണ,Malappuram,North Keralam,Q13113446,NAJEEB KANTHAPURAM,Indian Union Muslim League,V.P MOHAMMED HANEEFA,Communist Party of India (Marxist),30028,17/21,Result in Progress,2026-05-04 14:20:28
+S116,74,Perumbavoor,പെരുമ്പാവൂർ,Ernakulam,Centeral Keralam,Q16136149,MANOJ MOOTHEDAN,Indian National Congress,BASIL PAUL,Kerala Congress (M),28434,15/15,Result in Progress,2026-05-04 14:20:28
+S116,85,Piravom,പിറവം,Ernakulam,Centeral Keralam,Q13113295,ANOOP JACOB,Kerala Congress (Jacob),SABU K JACOB,Kerala Congress (M),44462,16/17,Result in Progress,2026-05-04 14:20:28
+S116,48,Ponnani,പൊന്നാനി,Malappuram,North Keralam,Q7227905,K.P NOUSHAD ALI,Indian National Congress,ADV.M.K SAKKEER,Communist Party of India (Marxist),9830,12/16,Result in Progress,2026-05-04 14:20:28
+S116,101,Poonjar,പൂഞ്ഞാർ,Kottayam,Centeral Keralam,Q16135693,ADV.SEBASTIAN M.J,Indian National Congress,ADV. SEBASTIAN KULATHUNKAL,Kerala Congress (M),4982,12/16,Result in Progress,2026-05-04 14:20:28
+S116,71,Puthukkad,പുതുക്കാട്,Thrissur,Centeral Keralam,Q7258374,K K RAMACHANDRAN,Communist,K M BABURAJAN,Indian National Congress,2329,15/17,Result in Progress,2026-05-04 14:20:28
+S116,121,Punalur,പുനലൂർ,Kollam,South Keralam,Q13113349,C. AJAYAPRASAD,Communist,NOUSHAD YOUNUS,Indian Union Muslim League,21529,17/17,Result Declared,2026-05-04 14:20:28
+S116,98,Puthuppally,പുതുപ്പള്ളി,Kottayam,Centeral Keralam,Q13113317,ADV. CHANDY OOMMEN,Indian National Congress,K. M. RADHAKRISHNAN,Communist Party of India (Marxist),52907,15/15,Result Declared,2026-05-04 14:20:28
+S116,23,Koyilandy,കൊയിലാണ്ടി,Kozhikode,North Keralam,Q13111637,ADV. K. PRAVEEN KUMAR,Indian National Congress,K. DASAN,Communist Party of India (Marxist),9053,12/17,Result in Progress,2026-05-04 14:20:28
+S116,112,Ranni,റാന്നി,Pathanamthitta,South Keralam,Q13114408,ADV. PAZHAKULAM MADHU,Indian National Congress,ADV. PRAMOD NARAYAN,Kerala Congress (M),3433,10/18,Result in Progress,2026-05-04 14:20:28
+S116,51,Shornur,ഷൊർണ്ണൂർ,Palakkad,Centeral Keralam,Q13114979,P.MAMMIKUTTY,Communist,P.HARIGOVINDAN,Indian National Congress,16517,12/12,Result Declared,2026-05-04 14:20:28
+S116,18,Sulthan Bathery,സുൽത്താൻ ബത്തേരി,Wayanad,North Keralam,Q13115144,I C BALAKRISHNAN,Indian National Congress,M S VISWANATHAN,Communist Party of India (Marxist),16597,18/18,Result in Progress,2026-05-04 14:20:28
+S116,8,Taliparamba,തളിപ്പറമ്പ്,Kannur,North Keralam,Q17379268,T K GOVINDAN MASTER S/O KUNHIKKANNAN NAMBIAR,Independent,P K SHYAMALA TEACHER,Communist Party of India (Marxist),10069,12/17,Result in Progress,2026-05-04 14:20:28
+S116,44,Tanur,താനൂർ,Malappuram,North Keralam,Q16136996,P K NAVAS,Indian Union Muslim League,MOHAMED SAMEER T THIRUTHIYIL HOUSE,Independent,19381,11/16,Result in Progress,2026-05-04 14:20:28
+S116,57,Tarur,തരൂർ,Palakkad,Centeral Keralam,Q16136772,SUMOD,Communist,SUBRAMANIAN K C,Indian National Congress,11910,14/14,Result Declared,2026-05-04 14:20:28
+S116,13,Thalassery,തലശ്ശേരി,Kannur,North Keralam,Q7709532,KARAYI RAJAN,Communist,SAJU K P,Indian National Congress,20159,14/15,Result in Progress,2026-05-04 14:20:28
+S116,47,Thavanur,തവനൂർ,Malappuram,North Keralam,Q16136920,ADV. V S JOY,Indian National Congress,DR. K T JALEEL,Independent,14647,17/17,Result in Progress,2026-05-04 14:20:28
+S116,111,Thiruvalla,തിരുവല്ല,Pathanamthitta,South Keralam,Q16137335,ADV.VARGHESE MAMMEN,Kerala Congress,ANOOP ANTONY,Bharatiya Janata Party,8319,16/18,Result in Progress,2026-05-04 14:20:28
+S116,32,Thiruvambady,തിരുവമ്പാടി,Kozhikode,North Keralam,Q13112497,C K KASIM,Indian Union Muslim League,LINTO JOSEPH,Communist Party of India (Marxist),6741,15/15,Result Declared,2026-05-04 14:20:28
+S116,134,Thiruvananthapuram,തിരുവനന്തപുരം,Thiruvananthapuram,South Keralam,Q16137289,C P JOHN,Communist Marxist,KARAMANA JAYAN,Bharatiya Janata Party,324,15/19,Result in Progress,2026-05-04 14:20:28
+S117,90,Thodupuzha,തൊടുപുഴ,Idukki,Centeral Keralam,Q16133853,APU JOHN JOSEPH,Kerala Congress,CYRIAC CHAZHIKADAN,Kerala Congress (M),40720,15/17,Result in Progress,2026-05-04 14:20:28
+S117,83,Thrikkakara,തൃക്കാക്കര,Ernakulam,Centeral Keralam,Q16137712,UMA THOMAS,Indian National Congress,ADV. PUSHPA DAS,Communist Party of India (Marxist),47746,18/20,Result in Progress,2026-05-04 14:20:28
+S117,81,Thrippunithura,തൃപ്പൂണിത്തുറ,Ernakulam,Centeral Keralam,Q13112618,DEEPAK JOY,Indian National Congress,K N UNNIKRISHNAN,Communist Party of India (Marxist),12911,13/21,Result in Progress,2026-05-04 14:20:28
+S117,67,Thrissur,തൃശ്ശൂർ,Thrissur,Centeral Keralam,Q7798271,RAJAN. J. PALLAN,Indian National Congress,ALANKODE LEELAKRISHNAN,Communist Party of India,26803,16/16,Result Declared,2026-05-04 14:20:28
+S117,49,Thrithala,തൃത്താല,Palakkad,Centeral Keralam,Q13112607,V T BALRAM,Indian National Congress,M B RAJESH,Communist Party of India (Marxist),9448,13/16,Result in Progress,2026-05-04 14:20:28
+S117,45,Tirur,തിരൂർ,Malappuram,North Keralam,Q16137421,KURUKKOLI MOIDEEN,Indian Union Muslim League,V.ABDURAHIMAN,Communist Party of India (Marxist),12078,9/18,Result in Progress,2026-05-04 14:20:28
+S117,43,Tirurangadi,തിരൂരങ്ങാടി,Malappuram,North Keralam,Q13112529,P M A SAMEER,Indian Union Muslim League,AJITH KOLADI,Communist Party of India,37089,9/15,Result in Progress,2026-05-04 14:20:28
+S117,5,Thrikaripur,തൃക്കരിപ്പൂർ,Kasaragod,North Keralam,Q16137696,DR. V P P MUSTAFA,Communist,SANDEEP VARIER,Indian National Congress,2956,12/16,Result in Progress,2026-05-04 14:20:28
+S117,3,Udma,ഉദുമ,Kasaragod,North Keralam,Q13110513,NEELAKANDAN,Indian National Congress,C H KUNHAMBU,Communist Party of India (Marxist),7194,16/18,Result in Progress,2026-05-04 14:20:28
+S117,89,Udumbanchola,ഉടുമ്പൻചോല,Idukki,Centeral Keralam,Q16133944,ADV. SENAPATHY VENU,Indian National Congress,K.K. JAYACHANDRAN,Communist Party of India (Marxist),20021,15/15,Result Declared,2026-05-04 14:20:28
+S117,20,Vatakara,വടകര,Kozhikode,North Keralam,Q13114485,K K REMA,Revolutionary Marxist,M K BHASKARAN,Rashtriya Janata Dal,14862,15/15,Result in Progress,2026-05-04 14:20:28
+S117,95,Vaikom,വൈക്കം,Kottayam,Centeral Keralam,Q13114860,K BINIMON,Indian National Congress,P PRADEEP,Communist Party of India,1360,13/13,Result in Progress,2026-05-04 14:20:28
+S117,42,Vallikkunnu,വള്ളിക്കുന്ന്,Malappuram,North Keralam,Q16135944,T V IBRAHIM,Indian Union Muslim League,ADV. MUSTHAFA,Independent,39240,13/17,Result in Progress,2026-05-04 14:20:28
+S117,131,Vamanapuram,വാമനപുരം,Thiruvananthapuram,South Keralam,Q16136220,MUHAMMED SUDHEERSHA S,Indian National Congress,MURALEEDHARAN NAIR D K,Communist Party of India (Marxist),11485,17/20,Result in Progress,2026-05-04 14:20:28
+S117,127,Varkala,വർക്കല,Thiruvananthapuram,South Keralam,Q16134163,ADV.V JOY,Communist,VARKALA KAHAR,Indian National Congress,2543,14/17,Result in Progress,2026-05-04 14:20:28
+S117,133,Vattiyoorkavu,വട്ടിയൂർക്കാവ്,Thiruvananthapuram,South Keralam,Q13114513,K. MURALEEDHARAN,Indian National Congress,ADV. V.K PRASANTH,Communist Party of India (Marxist),824,14/18,Result in Progress,2026-05-04 14:20:28
+S117,41,Vengara,വേങ്ങര,Malappuram,North Keralam,Q13114838,K.M. SHAJI,Indian Union Muslim League,SABAH KUNDUPUZHAKKAL,Independent,23004,11/14,Result in Progress,2026-05-04 14:20:28
+S117,79,Vypin,വൈപ്പിൻ,Ernakulam,Centeral Keralam,Q13114876,TONY CHAMMANY,Indian National Congress,ADV. M. B. SHYNI,Communist Party of India (Marxist),14922,15/16,Result in Progress,2026-05-04 14:20:28
+S117,65,Wadakkanchery,വടക്കാഞ്ചേരി,Thrissur,Centeral Keralam,Q16135293,XAVIER CHITTILAPPILLY,Communist,P.N. VAISAKH,Indian National Congress,5690,17/17,Result in Progress,2026-05-04 14:20:28
+S117,36,Wandoor,വണ്ടൂർ,Malappuram,North Keralam,Q16135444,A.P ANILKUMAR,Indian National Congress,DR.K.K DAMODARAN,Communist Party of India (Marxist),39533,15/19,Result in Progress,2026-05-04 14:20:28
